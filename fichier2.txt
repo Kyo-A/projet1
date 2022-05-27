@@ -1,1 +1,3 @@
 hello fic2.txt
+
+correct (ext)
